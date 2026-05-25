@@ -44,5 +44,3 @@ Education
 - National Hospital Pharmacy & Medical Biology Residency Exam (*Concours de l'Internat en Pharmacie*), ranked 345th, 2023
 - M.Sc. in Pharmaceutical Sciences (*Diplôme de Formation Approfondie en Sciences Pharmaceutiques*), University of Burgundy, 2017–2023
 - Dual Degree: M.Sc. Year 1 in CNS Diseases & Treatments, 2022
-- Competitive First Common Year of Health Studies Exam (PACES), passed, 2019
-- Scientific Baccalaureate, European Section, mention *Très Bien*, 2018
