@@ -14,4 +14,18 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- Offset fixed sidebar below hero overlay banner -->
+<script>
+(function () {
+  function adjustSidebarForHero() {
+    var hero = document.querySelector('.page__hero--overlay');
+    var sidebar = document.querySelector('.sidebar.sticky');
+    if (!hero || !sidebar || window.innerWidth < 1024) return;
+    sidebar.style.paddingTop = (hero.offsetHeight + 70) + 'px';
+  }
+  document.addEventListener('DOMContentLoaded', adjustSidebarForHero);
+  window.addEventListener('resize', adjustSidebarForHero);
+})();
+</script>
+
 <!-- end custom head snippets -->

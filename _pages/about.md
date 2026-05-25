@@ -28,7 +28,6 @@ Current Positions
 - **PhD Candidate** – Computer Science & AI, University of Burgundy (2024–Present)
 - **Co-Founder & CSO** – Nexomedis® (2024–Present)
 - **President & Editor-in-Chief** – Revue IA Santé® (2024–Present)
-- **Research Pharmacy Intern** – Early Phase Unit, CGFL / INSERM U1231 (2025)
 
 Selected Awards
 ======
@@ -37,3 +36,13 @@ Selected Awards
 - **"Young Researcher" Award** – Cancéropôle Est
 - **Deeptech Grant** – Appel à projet Deeptech (Nexomedis)
 - **DECA-BFC Incubator Grant** – Regional incubator program, Bourgogne-Franche-Comté
+
+Education
+======
+- M.Sc. in Health & Artificial Intelligence – Research Track, University of Burgundy, 2025
+- Doctor of Pharmacy (PharmD), University of Burgundy, 2024
+- National Hospital Pharmacy & Medical Biology Residency Exam (*Concours de l'Internat en Pharmacie*), ranked 345th, 2023
+- M.Sc. in Pharmaceutical Sciences (*Diplôme de Formation Approfondie en Sciences Pharmaceutiques*), University of Burgundy, 2017–2023
+- Dual Degree: M.Sc. Year 1 in CNS Diseases & Treatments, 2022
+- Competitive First Common Year of Health Studies Exam (PACES), passed, 2019
+- Scientific Baccalaureate, European Section, mention *Très Bien*, 2018
