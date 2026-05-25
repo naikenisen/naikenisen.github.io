@@ -1,7 +1,11 @@
 ---
 permalink: /
 title: "Isen Naiken"
+excerpt: "Multimodal AI for Cancer and the Regulatory and Entrepreneurial pathway."
 author_profile: true
+header:
+  overlay_color: "#1a2332"
+  overlay_filter: "0.6"
 redirect_from: 
   - /about/
   - /about.html
