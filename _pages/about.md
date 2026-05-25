@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Isen Naiken"
-excerpt: "Multimodal AI for Cancer and the Regulatory and Entrepreneurial pathway."
+excerpt: "Multimodal AI for Cancer & the Regulatory and Entrepreneurial pathway."
 author_profile: true
 header:
   overlay_color: "#1a2332"
@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-Doctor of Pharmacy (PharmD) and PhD candidate in Computer Science & Artificial Intelligence, I work at the intersection of clinical pharmacy and advanced AI models. My research focuses on predicting CAR-T cell response using reliable multimodal AI in patients with Diffuse Large B-Cell Lymphoma (DLBCL), supervised within the Computer Science department at the University of Burgundy.
+Doctor of Pharmacy (PharmD) with a masters degree in Computer Science, I work at the intersection of clinical pharmacy and advanced AI models. My research focuses on predicting CAR-T cell response using reliable multimodal AI in patients with Diffuse Large B-Cell Lymphoma (DLBCL).
 
 My professional trajectory combines academic research with entrepreneurship through **Nexomedis®**, a startup I co-founded to facilitate the technology transfer of AI solutions into clinical practice. I also serve as **President & Editor-in-Chief** of *Revue IA Santé®*, a peer-reviewed journal dedicated to AI in healthcare promoting open science and reproducible research.
 
