@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Isen Naiken:
+  name        : "Isen Naiken"
+  uri         : "https://naikenisen.github.io"
+  email       : "isennaiken3@gmail.com"
+  bio         : "PharmD & PhD Candidate in Computer Science & AI. Co-Founder of Nexomedis®."
+  avatar      : "profile.png"
+  github      : "naikenisen"
+  orcid       : "https://orcid.org/0009-0004-5950-5799"
