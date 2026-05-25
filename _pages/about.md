@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-Doctor of Pharmacy (PharmD) with a masters degree in Computer Science, I work at the intersection of clinical pharmacy and advanced AI models. My research focuses on predicting CAR-T cell response using reliable multimodal AI in patients with Diffuse Large B-Cell Lymphoma (DLBCL).
+Doctor of Pharmacy (PharmD) with a master's degree in Computer Science, I work at the intersection of clinical pharmacy and advanced AI models. My research focuses on predicting CAR-T cell response using reliable multimodal AI in patients with Diffuse Large B-Cell Lymphoma (DLBCL).
 
 My professional trajectory combines academic research with entrepreneurship through **Nexomedis®**, a startup I co-founded to facilitate the technology transfer of AI solutions into clinical practice. I also serve as **President & Editor-in-Chief** of *Revue IA Santé®*, a peer-reviewed journal dedicated to AI in healthcare promoting open science and reproducible research.
 
